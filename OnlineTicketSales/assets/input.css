@@ -2,7 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-
+.city{
+    @apply text-right w-[80%] h-[10vh] text-black rounded-l text-2xl;
+}
 body{
     background-image: url("tree-736885_1280.jpg");
     background-position: center;
