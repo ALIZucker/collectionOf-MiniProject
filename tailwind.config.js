@@ -1,5 +1,7 @@
+
+/** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./OnlineTicketSales/*.{html,js}"],
+  content: ["./weatherApp/*.{html,js}"],
   theme: {
     extend: {},
   },
