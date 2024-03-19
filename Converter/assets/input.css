@@ -11,5 +11,8 @@
     .textstyle{
         @apply   font-bold text-2xl text-white;
     }
+    .bot{
+        @apply w-[20vw] h-[6vh] bg-sky-700 text-white font-semibold text-lg shadow-neutral-400 shadow-lg;
+    }
 
 }
