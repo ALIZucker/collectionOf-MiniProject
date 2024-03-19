@@ -1,7 +1,7 @@
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./weatherApp/*.{html,js}"],
+  content: ["./Converter/*.{html,js}"],
   theme: {
     extend: {},
   },
